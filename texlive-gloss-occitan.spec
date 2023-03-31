@@ -1,6 +1,6 @@
 Name:		texlive-gloss-occitan
 Version:	52593
-Release:	1
+Release:	2
 Summary:	Polyglossia support for Occitan
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/gloss-occitan
