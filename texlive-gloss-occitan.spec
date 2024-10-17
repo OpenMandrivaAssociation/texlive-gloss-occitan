@@ -3,7 +3,7 @@ Version:	52593
 Release:	2
 Summary:	Polyglossia support for Occitan
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/gloss-occitan
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/gloss-occitan
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/gloss-occitan.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/gloss-occitan.doc.r%{version}.tar.xz
